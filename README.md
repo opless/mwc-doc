@@ -1,4 +1,4 @@
-mwc-mwc
+mwc-doc
 =======
 
-mwc tarball from http://www.nesssoftware.com/home/mwc/source.php
+doc tarball from http://www.nesssoftware.com/home/mwc/source.php
